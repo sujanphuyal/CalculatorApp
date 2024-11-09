@@ -1,8 +1,7 @@
 # calculator.py
-# Adding a new function or modifying an existing function in a way that might conflict with other branches
 def add(a, b):
-    # Feature X change
-    return a + b + 1
+    # Resolved conflict by combining changes
+    return a + b + 1 - 1  # or whatever resolution you prefer
 
 def subtract(a, b):
     return a - b
