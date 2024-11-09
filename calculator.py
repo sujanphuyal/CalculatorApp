@@ -1,8 +1,8 @@
 # calculator.py
 def add(a, b):
-    # Feature Z change
-    return a + b * 2
-
+    # Resolved conflict manually by balancing operation 
+    return (a + b) * 2 / 2
+    
 def subtract(a, b):
     return a - b
 
