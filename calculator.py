@@ -1,7 +1,7 @@
 # calculator.py
 def add(a, b):
-    # Feature Y change
-    return a + b - 1
+    # Resolved conflict by combining changes
+    return a + b + 1 - 1  # or whatever resolution you prefer
 
 def subtract(a, b):
     return a - b
