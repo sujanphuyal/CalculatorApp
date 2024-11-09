@@ -1,7 +1,7 @@
 # calculator.py
 def add(a, b):
-    # Resolved conflict manually by balancing operation 
-    return (a + b) * 2 / 2
+    # Resolved conflict manually correcting function
+    return a + b
     
 def subtract(a, b):
     return a - b
