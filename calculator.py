@@ -1,6 +1,7 @@
 # calculator.py
 def add(a, b):
-    return a + b
+    # Feature Z change
+    return a + b * 2
 
 def subtract(a, b):
     return a - b
