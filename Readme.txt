@@ -12,3 +12,7 @@
    ```
 
 This script will generate a zip file named `calculator_app.zip` if all tests pass.
+
+## Testing the Pipeline
+Automated Trigger:
+Make a small change to the repository to verify automated trigger and confirming that Jenkins starts the build automatically within 2 minutes.
