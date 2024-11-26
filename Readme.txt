@@ -12,6 +12,3 @@
    ```
 
 This script will generate a zip file named `calculator_app.zip` if all tests pass.
-
-## Jenkins Change Test 
-Verifying changes will be automatically updated i.e. Confirm that the DOT503 job is triggered automatically within two minutes
