@@ -17,10 +17,10 @@ class TestCalculator(unittest.TestCase):
         self.assertEqual(divide(10, 0), "Cannot divide by zero")  # This should pass
 
     def test_add_fail(self):
-        self.assertEqual(add(2, 2), 5)  # This should fail
+        self.assertEqual(add(2, 2), 4)  # This should pass
 
     def test_subtract_fail(self):
-        self.assertEqual(subtract(5, 5), 1)  # This should fail
+        self.assertEqual(subtract(5, 5), 0)  # This should pass
 
 if __name__ == '__main__':
     unittest.main()
